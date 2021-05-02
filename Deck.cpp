@@ -5,6 +5,7 @@
 #include "Deck.h"
 #include <random>
 #include <iostream>
+#include <algorithm>
 
 Deck::Deck() { createDeck(); }
 
